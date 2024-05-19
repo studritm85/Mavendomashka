@@ -23,23 +23,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                ...
-            </plugin>
-
-            <plugin>
-                ...
-                <executions>
-                    <execution>
-                        ...
-                    </execution>
-                    ...
-                </executions>
-            </plugin>
-            ...
-        </plugins>
-    </build>
-
 </project>
